@@ -1,4 +1,8 @@
-// Modified by Nikolas Sucevic for EMU IA645 Docker Open Source Project
+// IA645 Open Source Docker Project
+// Student: Nikolas Sucevic
+// Project: Snake Game (TensorFlow + Docker)
+// This version corresponds to my student upload & PR in the IA645 student-submissions repo.
+
 
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
