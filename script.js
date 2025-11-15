@@ -1,3 +1,5 @@
+// Modified by Nikolas Sucevic for EMU IA645 Docker Open Source Project
+
 const canvas = document.getElementById('gameCanvas');
 const ctx = canvas.getContext('2d');
 
